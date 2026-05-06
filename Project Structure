@@ -1,0 +1,10 @@
+epl-scouting-dashboard/
+│
+├── app14.py
+├── league-players.xlsx
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+└── assets/
+    └── dashboard_screenshot.png
