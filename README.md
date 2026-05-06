@@ -3,6 +3,7 @@
 An interactive football analytics dashboard built with **Python** and **Streamlit** to evaluate player performance in the English Premier League using expected goals (xG) and expected assists (xA).
 
 ---
+Live Demo: https://epl-2025-26-player-scouting-dashboard-benmxe27ueskxcmfpavg8w.streamlit.app/
 
 ## 🚀 Overview
 
