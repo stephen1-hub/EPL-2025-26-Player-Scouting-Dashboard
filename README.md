@@ -57,4 +57,4 @@ This project simulates a **data-driven scouting tool** used by football clubs to
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app14.py
